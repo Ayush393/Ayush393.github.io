@@ -1,0 +1,68 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Ayush Patel
+title: Student at University of Manitoba
+email: patelad@myumanitoba.ca
+website: https://ayush393.github.io/
+
+# Social links
+#twitter_username: 
+github_username:  https://github.com/Ayush393
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: ayush_393
+linkedin_username: https://www.linkedin.com/in/ayush-patel-582658171
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Ayush and I'm a student at University of Manitoba. I am pursuing an undergraduate degree in Computer Science.
+
+  I am technically skilled in: <mark>Java</mark> , <mark>Python</mark> and <mark>Android Studio</mark>
+
+# Projects Section
+# projects_title: Projects
+projects_content: |
+  Instagram Clone; Creating an Instagram alike prototype that takes in pictures and videos from a particular user’s profile and share them with friends. I started this project as a way of learning Android Studio and it has since then grown into a functionable prototype. It really helped me deep dive into Android Studio for a great experience. 
+
+  Web Portfolio; A Restaurant website that enables online food ordering both while at home and also possible while at the restaurant to dine-in. This helped me to learn more on HTML, CSS. Bootstrap, JavaScript. A personal project is highly recommended in order to learn such languages on a personal level.  
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+education_content: |
+  University of Manitoba 
+  Bsc Computer Science
+  2018 - 2022
+
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in databases and human computer interaction some of my other interests and hobbies are:
+   - Hiking
+   - Gaming
+   - Travelling
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
