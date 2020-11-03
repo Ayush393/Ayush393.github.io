@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: University of Manitoba
+  dates: April 2018 - Present
+  qualification: Bsc. Bachelors of Computer Science, Majors
   quote: >
-    Short institution or course description (optional)
+    
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    I started my degree at the University of Manitoba in 2018 and have made my way through by learning and mastering many skills that help apply to the real world. I am currently a third year student searching for an Internship. 
