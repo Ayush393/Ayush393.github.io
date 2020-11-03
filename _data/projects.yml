@@ -6,7 +6,9 @@
   quote: >
     Instagram alike prototype
   description: | # this will include new lines to allow paragraphs
-     Creating an Instagram alike prototype that takes in pictures and videos from a particular user’s profile and share them with friends. I started this project as a way of learning Android Studio and it has since then grown into a functionable prototype. It really helped me deep dive into Android Studio for a great experience. 
+     - Creating an Instagram alike prototype that takes in pictures and videos from a particular user’s profile and share them with friends. 
+     - I started this project as a way of learning Android Studio and it has since then grown into a functionable prototype. 
+     - It really helped me deep dive into Android Studio for a great experience. 
      
 - layout: top-middle
   name: Restraurant Website
@@ -15,4 +17,6 @@
   quote: >
     Web Portfolio
   description: | # this will include new lines to allow paragraphs
-     A Restaurant website that enables online food ordering both while at home and also possible while at the restaurant to dine-in. This helped me to learn more on HTML, CSS. Bootstrap, JavaScript. A personal project is highly recommended in order to learn such languages on a personal level.
+     - A Restaurant website that enables online food ordering both while at home and also possible while at the restaurant to dine-in. 
+     - This helped me to learn more on HTML, CSS. Bootstrap, JavaScript. 
+     - A personal project is highly recommended in order to learn such languages on a personal level.
