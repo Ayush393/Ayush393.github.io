@@ -1,5 +1,32 @@
 # Project template
 - layout: top-middle
+  name: Technical Skills:
+  description: |
+  *LANGUAGES AND CROSS PLATFORMS*
+-	Java 
+-	C++ 
+-	C  	
+-	Android 
+-	Python 
+-	Junit(Tests)	 
+-	JavaScript 	
+-	HTML/CSS 	 
+-	SQL 	
+
+*SOFTWARE AND ENVIRONMENTS* 
+-	JetBrains IDE 	
+-   Visual Studio
+-	Microsoft Office	
+-	 Android Studio		
+ 
+*SOFT SKILLS* 
+-	Time Management 	               
+-	Teamwork and Cooperation 	
+-	Communication 
+-	Quick Learner
+-	Creative
+
+- layout: top-middle
   name: Instagram Clone
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
