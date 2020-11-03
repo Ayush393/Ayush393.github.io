@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Ayush Patel
-title: Student at University of Manitoba
+title: Senior Computer Science Student
 email: patelad@myumanitoba.ca
 website: https://ayush393.github.io/
 
@@ -15,7 +15,7 @@ github_username:  https://github.com/Ayush393
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: ayush_393
-linkedin_username: Ayush Patel#https://www.linkedin.com/in/ayush-patel-582658171
+linkedin_username: Ayush Patel #https://www.linkedin.com/in/ayush-patel-582658171
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -25,7 +25,7 @@ linkedin_username: Ayush Patel#https://www.linkedin.com/in/ayush-patel-582658171
 about_profile_image: images/profile.jpg 
 #about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ayush and I'm a student at University of Manitoba. I am pursuing an undergraduate degree in Computer Science.
+  Hi, my name is Ayush and I'm a student at University of Manitoba. I am pursuing an undergraduate degree in Computer Science. My fields of interest are in Databases and Human Computer Interaction(HCI). 
 
   I am technically skilled in: <mark>Java</mark> , <mark>Python</mark> and <mark>Android Studio</mark>
 
