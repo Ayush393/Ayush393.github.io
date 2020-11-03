@@ -1,25 +1,27 @@
 # Project template
 - layout: top-middle
   name: Technical Skills:
+  quote: >
+    *LANGUAGES AND CROSS PLATFORMS*
   description: |
-  *LANGUAGES AND CROSS PLATFORMS*
--	Java 
--	C++ 
--	C  	
--	Android 
--	Python 
--	Junit(Tests)	 
--	JavaScript 	
--	HTML/CSS 	 
--	SQL 	
-
-*SOFTWARE AND ENVIRONMENTS* 
--	JetBrains IDE 	
--   Visual Studio
--	Microsoft Office	
--	 Android Studio		
+    -	Java 
+    -	C++ 
+    -	C  	
+    -	Android 
+    -	Python 
+    -	Junit(Tests)	 
+    -	JavaScript 	
+    -	HTML/CSS 	 
+    -	SQL 	
+  quote: >
+    *SOFTWARE AND ENVIRONMENTS* 
+  description: |  
+    -	JetBrains IDE 	
+    - Visual Studio
+    -	Microsoft Office	
+    -	Android Studio		
  
-*SOFT SKILLS* 
+  name: Soft Skills 
 -	Time Management 	               
 -	Teamwork and Cooperation 	
 -	Communication 
