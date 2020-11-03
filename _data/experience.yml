@@ -1,10 +1,13 @@
 # Experience template
 - layout: left
-  company: Company name
+  company: Walmart Canada
   link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  job_title: Cashier
+  dates: September 2018 - Present
   quote: >
-   Short description of the company (optional)
+    Organized Cashier experienced in handling cash, processing payments and cementing patron relationships with excellent interpersonal abilities.
+   
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Reviewing and resolving differences between accounting information and cash drawer.
+    - Processed POS trannsactions in the form of cash, credit or debit card, check or other forms of payment. 
+    - Issue customers' receipts and return the correct change as necessary for cash payments.
