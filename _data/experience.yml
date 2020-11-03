@@ -1,7 +1,7 @@
 # Experience template
 - layout: left
   company: Walmart Canada
-  link: Link to company (optional)
+  #link: Link to company (optional)
   job_title: Cashier
   dates: September 2018 - Present
   quote: >
