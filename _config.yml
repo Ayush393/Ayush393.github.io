@@ -22,8 +22,8 @@ linkedin_username: Ayush Patel#https://www.linkedin.com/in/ayush-patel-582658171
 
 # About Section
 # about_title: About Me
-#about_profile_image: images/profile.jpg 
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg 
+#about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ayush and I'm a student at University of Manitoba. I am pursuing an undergraduate degree in Computer Science.
 
