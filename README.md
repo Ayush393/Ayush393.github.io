@@ -70,7 +70,7 @@ Edit the `_config.yml` file `front matter` to modify and add content of your own
 
 Here is a demo featuring the resume in a GIF
 
-![resume](/assets/resume.gif)
+![Resume](/assets/Resume.gif)
 
 ### More Resources
 
